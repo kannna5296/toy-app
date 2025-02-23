@@ -3,7 +3,7 @@ source "https://rubygems.org"
 # ここだけは自分で指定
 ruby "3.4.2"
 # Bundle edge Rails instead: gem "rails", github: "rails/rails", branch: "main"
-gem "rails", "7.2.2.1"
+gem "rails", "8.0.1"
 
 # これ以下はrailsチュートリアルに従う
 gem "sassc-rails",     "2.1.2"
