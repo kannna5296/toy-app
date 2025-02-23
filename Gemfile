@@ -7,7 +7,7 @@ gem "rails", "7.2.2.1"
 
 # これ以下はrailsチュートリアルに従う
 gem "sassc-rails",     "2.1.2"
-gem "sprockets-rails", "3.4.2"
+gem "sprockets-rails", "3.5.2"
 gem "importmap-rails", "1.1.5"
 gem "turbo-rails",     "1.4.0"
 gem "stimulus-rails",  "1.2.1"
