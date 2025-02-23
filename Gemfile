@@ -9,7 +9,7 @@ gem "rails", "7.2.2.1"
 gem "sassc-rails",     "2.1.2"
 gem "sprockets-rails", "3.4.2"
 gem "importmap-rails", "1.1.5"
-gem "turbo-rails",     "1.4.0"
+gem "turbo-rails",     "2.0.11"
 gem "stimulus-rails",  "1.2.1"
 gem "jbuilder",        "2.11.5"
 gem "puma",            "6.6.0" #RenderでPuma 5 is not compatible with Rack 3, please upgrade to Puma 6 or higher. (StandardError)となったので6にあげる
